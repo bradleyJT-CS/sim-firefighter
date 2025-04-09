@@ -59,7 +59,7 @@ A short demo showcasing Niagara particle systems for wind, leaves, and rain:
 
 ---
 
-## 📍 About the Capstone
+## About the Capstone
 
-This project was completed for the senior capstone course at Oregon State University, as part of the Simulation and Game Programming track in the Applied Computer Science degree.
+This project was completed for the senior capstone course at Oregon State University, as part of the Simulation and Game Programming track for the Computer Science degree.
 
