@@ -36,7 +36,10 @@
 
 ## 📸 Media
 
-*Coming soon: Screenshots and GIFs*
+🌦️ Weather & Fire Particle Effects Demo
+
+A short demo showcasing Niagara particle systems for wind, leaves, and rain:
+![Weather Effects Demo](weather.gif)
 
 ---
 
