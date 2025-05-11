@@ -53,9 +53,9 @@ A short demo showcasing Niagara particle systems for wind, leaves, and rain:
 
 ## Timeline
 
-- **Winter 2024** – Project Planning & Engine Setup  
-- **Spring 2024** – Prototyping, VFX Design, and Gameplay Systems  
-- **Summer 2024** – Testing, Polish, and Final Presentation
+- **Fall 2024** – Project Planning & Engine Setup  
+- **Winter 2024** – Prototyping, VFX Design, and Gameplay Systems  
+- **Sprint 2025** – Testing, Polish, and Final Presentation
 
 ---
 
